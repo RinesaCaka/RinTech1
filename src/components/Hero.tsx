@@ -39,11 +39,7 @@ const Hero = () => {
                 <p className="text-xl md:text-2xl max-w-2xl mb-8">
                   Krijojmë hapësira që frymëzojnë dhe transformojnë jetën tuaj
                 </p>
-                <a
-  href="https://wa.me/38348228318"
-  target="_blank"
-  rel="noopener noreferrer"
-  className="bg-orange-500 hover:bg-orange-600 text-white font-medium py-3 px-8 rounded-md transition-colors"
+                <a href="#contact"  className="bg-orange-500 hover:bg-orange-600 text-white font-medium py-3 px-8 rounded-md transition-colors"
 >
   Rezervo një Takim
 </a>

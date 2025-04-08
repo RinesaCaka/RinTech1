@@ -12,7 +12,7 @@ const Footer = () => {
             </h3>
             <p className="text-gray-400">
               Transformojmë hapësirat tuaja në vepra arti funksionale dhe
-              estetike. Dizajn i brendshëm për çdo ambient dhe buxhet.
+              estetike. Dizajn i brendshëm për çdo ambient.
             </p>
           </div>
           <div>

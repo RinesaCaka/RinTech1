@@ -180,13 +180,13 @@ const Contact = () => {
                     </p>
                   </div>
                 </div>
-                <div className="flex items-start">
+                {/* <div className="flex items-start">
                   <PhoneIcon className="text-orange-500 mr-3 flex-shrink-0 mt-1" />
                   <div>
                     <h4 className="font-medium">Telefon</h4>
                     <p className="text-gray-700">+383 48 228 318</p>
                   </div>
-                </div>
+                </div> */}
                 <div className="flex items-start">
                   <MailIcon className="text-orange-500 mr-3 flex-shrink-0 mt-1" />
                   <div>
