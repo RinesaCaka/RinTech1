@@ -10,6 +10,7 @@ import image7 from '../images/7.jfif';
 import image8 from '../images/8.jfif';
 import image9 from '../images/9.jfif';
 import image10 from '../images/10.jfif';
+import image11 from '../images/11.jfif';
 import o1 from '../images/o1.jpg';
 import o2 from '../images/o2.jpg';
 import o3 from '../images/o3.jpg';
@@ -42,7 +43,7 @@ const Portfolio = () => {
       category: 'apartments',
       description: 'Rinovim i plotë i një apartamenti 120m² në zemër të qytetit, me fokus në hapësira të hapura dhe ndriçim natyral.',
       techniques: 'Përdorimi i materialeve natyrore, mobilje të personalizuara, ndriçim ambiental',
-      images: [image6, image2, image3, image4, image1],
+      images: [image11, image2, image3, image4, image1],
       details: ['Riorganizim i plotë i hapësirës', 'Sistem ndriçimi inteligjent', 'Mobilje të personalizuara', 'Materiale premium']
     },
     {
